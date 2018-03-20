@@ -1,0 +1,13 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Programaci\IeC {\'o}n Din\IeC {\'a}mica}{1}
+\contentsline {subsection}{\numberline {1.1}Algoritmo}{1}
+\contentsline {subsubsection}{\numberline {1.1.1}Funcionamiento}{1}
+\contentsline {subsubsection}{\numberline {1.1.2}Ecuaci\IeC {\'o}n de recurrencia}{1}
+\contentsline {section}{\numberline {2}Algoritmos Randomizados}{3}
+\contentsline {subsection}{\numberline {2.1}Algoritmo}{3}
+\contentsline {subsubsection}{\numberline {2.1.1}Funcionamiento}{3}
+\contentsline {subsubsection}{\numberline {2.1.2}Categor\IeC {\'\i }a de randomizaci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {3}Algoritmos Aproximados}{4}
+\contentsline {subsubsection}{\numberline {3.0.1}Funcionamiento}{4}
+\contentsline {subsubsection}{\numberline {3.0.2}An\IeC {\'a}lisis del Algoritmo}{4}
+\contentsline {section}{\numberline {4}Ejecuci\IeC {\'o}n de programas}{5}
