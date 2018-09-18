@@ -22,8 +22,6 @@ Consist of different implementations of the algorithm to solve the shortest path
 * Floyd-Warshall’s algorithm for finding the shortest paths in a weighted graph with positive or negative edge weights.
 * Bellman-Ford’s algorithm for finding the shortest paths from a single source vertex to all of the other vertices in a weighted digraph.
 
-Por último, se analizó la pertenencia de 6 problemas distintos a las clases de complejidad P y NP. En caso de pertenecer a la clase P, se propuso un algoritmo que resuelva dicho problema en tiempo polinomial. En cambio, en caso de pertenecer a la clase NP, se realizó la reducción correspondiente al problema.
-
 It can be found [here](https://github.com/facuguerrero/TeoriaDeAlgoritmos/tree/master/TP2).
 
 
@@ -40,7 +38,3 @@ It can be found [here](https://github.com/facuguerrero/TeoriaDeAlgoritmos/tree/m
 
 #### Facultad de Ingeniería de la Universidad de Buenos Aires
 #### TP TEORÍA DE ALGORITMOS II 75.29
-
-
-React
-Java + spring + mvn
